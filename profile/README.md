@@ -36,11 +36,5 @@ Helping organizations automate, secure, and scale their cloud infrastructure.
 
 ---
 
-## 🌟 GitHub Stats
-
-![Anish's GitHub stats](https://github-readme-stats.vercel.app/api?username=anishkumarait&show_icons=true&theme=radical)
-
----
-
 ## ⚡ Fun Fact
 I enjoy **automating repetitive tasks**, writing **technical books**, and exploring **new cloud technologies**.
