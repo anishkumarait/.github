@@ -25,6 +25,7 @@ Helping organizations automate, secure, and scale their cloud infrastructure.
 ## 📚 Publications
 - **[Mastering Terraform for the Associate Certification Exam](https://www.amazon.com/gp/product/B0DJC8V6FG)**
 - **[AWS CDK for Infrastructure Automation](https://www.amazon.com/gp/product/B0DVBYXSH1)**
+- **[Terraform for Cloud Security](https://shorturl.at/udzt1)**
 - Substack: [@anishkumarait](https://substack.com/@anishkumarait)
 
 ---
